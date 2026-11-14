@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="800" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b6c7db"/><stop offset=".45" stop-color="#8fa9c9"/><stop offset="1" stop-color="#5077a7"/></linearGradient>
+<radialGradient id="bg" cx=".5" cy=".4" r=".8"><stop offset="0" stop-color="#ffffff" stop-opacity=".7"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient></defs>
+<rect width="400" height="500" fill="#efebe4"/><rect width="400" height="500" fill="url(#bg)"/>
+<ellipse cx="200" cy="455" rx="120" ry="12" fill="#000" opacity=".08"/>
+<path d="M152,130 L248,130 L298,390 L102,390 Z" fill="url(#g)" stroke="#5077a7" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="152" y="130" width="96" height="18" fill="#5077a7"/>
+<line x1="164.0" y1="148" x2="126.5" y2="390" stroke="#5077a7" stroke-width="1.6" opacity=".6"/>
+<line x1="176.0" y1="148" x2="151.0" y2="390" stroke="#5077a7" stroke-width="1.6" opacity=".6"/>
+<line x1="188.0" y1="148" x2="175.5" y2="390" stroke="#5077a7" stroke-width="1.6" opacity=".6"/>
+<line x1="200.0" y1="148" x2="200.0" y2="390" stroke="#5077a7" stroke-width="1.6" opacity=".6"/>
+<line x1="212.0" y1="148" x2="224.5" y2="390" stroke="#5077a7" stroke-width="1.6" opacity=".6"/>
+<line x1="224.0" y1="148" x2="249.0" y2="390" stroke="#5077a7" stroke-width="1.6" opacity=".6"/>
+<line x1="236.0" y1="148" x2="273.5" y2="390" stroke="#5077a7" stroke-width="1.6" opacity=".6"/>
+<path d="M156,150 L244,150" stroke="#d9a441" stroke-width="2" stroke-dasharray="5 4"/>
+</svg>

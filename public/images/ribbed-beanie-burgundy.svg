@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="800" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c64965"/><stop offset=".45" stop-color="#6d2233"/><stop offset="1" stop-color="#4e1824"/></linearGradient>
+<radialGradient id="bg" cx=".5" cy=".4" r=".8"><stop offset="0" stop-color="#ffffff" stop-opacity=".7"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient></defs>
+<rect width="400" height="500" fill="#efebe4"/><rect width="400" height="500" fill="url(#bg)"/>
+<ellipse cx="200" cy="455" rx="120" ry="12" fill="#000" opacity=".08"/>
+<path d="M125,300 Q125,140 200,140 Q275,140 275,300 Z" fill="url(#g)" stroke="#4e1824" stroke-width="2.5" stroke-linejoin="round"/>
+<rect x="118" y="262" width="164" height="60" rx="8" fill="#4e1824"/>
+<line x1="126" y1="266" x2="126" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="136" y1="266" x2="136" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="146" y1="266" x2="146" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="156" y1="266" x2="156" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="166" y1="266" x2="166" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="176" y1="266" x2="176" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="186" y1="266" x2="186" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="196" y1="266" x2="196" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="206" y1="266" x2="206" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="216" y1="266" x2="216" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="226" y1="266" x2="226" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="236" y1="266" x2="236" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="246" y1="266" x2="246" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="256" y1="266" x2="256" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="266" y1="266" x2="266" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<line x1="276" y1="266" x2="276" y2="318" stroke="#6d2233" stroke-width="3" opacity=".6"/>
+<circle cx="200" cy="132" r="22" fill="#c64965"/>
+</svg>

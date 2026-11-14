@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="800" height="1000">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#edc55d"/><stop offset=".45" stop-color="#d4a017"/><stop offset="1" stop-color="#987310"/></linearGradient>
+<radialGradient id="bg" cx=".5" cy=".4" r=".8"><stop offset="0" stop-color="#ffffff" stop-opacity=".7"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient></defs>
+<rect width="400" height="500" fill="#efebe4"/><rect width="400" height="500" fill="url(#bg)"/>
+<ellipse cx="200" cy="455" rx="120" ry="12" fill="#000" opacity=".08"/>
+<path d="M138,95 L176,82 L200,140 L224,82 L262,95 L304,145 L330,350 L298,357 L268,205 L266,405 L134,405 L132,205 L102,357 L70,350 L96,145 Z" fill="url(#g)" stroke="#987310" stroke-width="2.5" stroke-linejoin="round"/>
+<path d="M176,82 L200,140 L188,205 L166,120 Z M224,82 L200,140 L212,205 L234,120 Z" fill="#987310" opacity=".6"/>
+<line x1="200" y1="140" x2="200" y2="405" stroke="#987310" stroke-width="3"/>
+<circle cx="210" cy="170" r="4" fill="#edc55d" stroke="#987310"/>
+<circle cx="210" cy="220" r="4" fill="#edc55d" stroke="#987310"/>
+<circle cx="210" cy="270" r="4" fill="#edc55d" stroke="#987310"/>
+<circle cx="210" cy="320" r="4" fill="#edc55d" stroke="#987310"/>
+<circle cx="210" cy="370" r="4" fill="#edc55d" stroke="#987310"/>
+<rect x="146" y="175" width="38" height="34" rx="3" fill="none" stroke="#987310" stroke-width="2.5"/><rect x="216" y="175" width="38" height="34" rx="3" fill="none" stroke="#987310" stroke-width="2.5"/>
+</svg>
